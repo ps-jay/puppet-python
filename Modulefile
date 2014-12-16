@@ -1,4 +1,5 @@
 name          'stankevich-python'
+# Reminder: also modify metadata.json
 version       '1.8.3'
 source        'git://github.com/stankevich/puppet-python.git'
 author        'stankevich'
